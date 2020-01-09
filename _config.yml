@@ -1,13 +1,4 @@
 ---
-title: Paperballin
-author: paperballin
-email: paperballin@outlook.com
-description: > # this means to ignore newlines until "baseurl:"
-  description
-# social links
-twitter_username: something
-github_username:  paperballin
-
-show_excerpts: true # set to false to remove excerpts on the homepage
-theme: minima
+title: "Your blog post title"
+date: YYYY-MM-DD
 ---
