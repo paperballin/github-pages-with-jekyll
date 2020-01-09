@@ -1,4 +1,4 @@
 ---
-title: "Your blog post title"
-date: YYYY-MM-DD
+title: "Post"
+date: 2020-01-08
 ---
